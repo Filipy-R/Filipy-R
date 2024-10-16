@@ -1,8 +1,9 @@
-## Hii, welcome to my profile
+## Hii, I'm Filipy🇧🇷
+
+Soy **Filipy**, estudante del curso DAWe 2024/2025, de momento ilusionado con la tecnologia.
 
 <!--
-* Soy **Filipy**, estudante del curso DAWe 2024/2025
-
+* 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
