@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hii, welcome to my profile
 
 <!--
-**Filipy-R/Filipy-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Soy **Filipy**, estudante del curso DAWe 2024/2025
 
 Here are some ideas to get you started:
 
