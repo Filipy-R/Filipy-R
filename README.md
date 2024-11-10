@@ -1,36 +1,68 @@
-## Hii, I'm Filipy 🇧🇷
+# ¡Hola! Soy **Filipy Henrique Rodrigues Marques** 👨‍💻
 
-Soy **Filipy** tengo 19 años y acutal estou cursando el 1r DAWe, 2024/2025.
+### 🎓 Estudiante de Programación en el **Institut Tecnològic de Barcelona** (ITB)
+   
+👋 ¡Bienvenidos a mi perfil! Soy un apasionado de la **programación** y de **resolver problemas** de manera creativa utilizando código. Mi objetivo es construir soluciones tecnológicas que puedan mejorar la vida de las personas, desde aplicaciones web hasta proyectos de inteligencia artificial. Actualmente, estudio desarrollo de software en el Instituto Tecnológico de Barcelona, donde busco aprender y mejorar mis habilidades en diversas áreas de la programación, con un enfoque especial en el desarrollo web y la inteligencia artificial.
 
-**Tecnologia** 
+---
 
-![image](https://github.com/user-attachments/assets/a7413e84-53d8-48b9-94e5-240973f05813)   ![image](https://github.com/user-attachments/assets/a07c28b3-63d1-4ffa-96f6-5d810cffbfa1)
-![image](https://github.com/user-attachments/assets/3f1f7359-a54c-4c0e-a582-86c8ed71ec16)   ![image](https://github.com/user-attachments/assets/fc4641e6-ecbf-4923-89c9-06d39bbc2c85)
-![image](https://github.com/user-attachments/assets/ffabba02-41a7-4e86-8849-2e8161f6f7ae)   ![image](https://github.com/user-attachments/assets/c2b22e1b-ebcb-437c-b7be-477de4b08cf4)
+### 🌍 Información Personal
 
+- **Nombre:** Filipy Henrique Rodrigues Marques
+- **Nacionalidad:** 🇧🇷 Brasil
+- **Instituto:** Institut Tecnologic de Barcelona (ITB)
+- **Correo electrónico:** [filipy.rodrigues.7e8@itb.cat](mailto:filipy.rodrigues.7e8@itb.cat)
 
+---
 
+### 💻 Lenguajes y Herramientas que uso
 
-**Instituto de aprendizaje**
+Durante mis estudios, he tenido la oportunidad de trabajar con varios lenguajes de programación y herramientas. Estoy aprendiendo de manera activa algunos de estos y tengo interés en explorar muchos más. Aquí te dejo algunos de los que más disfruto usar:
 
-![Captura de pantalla de 2024-10-16 09-44-17](https://github.com/user-attachments/assets/8e8fa876-8743-497a-bb26-d6969b012197)
+#### 📝 Lenguajes de Programación
 
-**Contacto**
+- ![image](https://github.com/user-attachments/assets/fc4641e6-ecbf-4923-89c9-06d39bbc2c85)
+  **Python**: Me encanta su versatilidad, especialmente en proyectos de análisis de datos y desarrollo de inteligencia artificial.
 
-📧 filipy.rodrigues.7e8@itb.cat
+- ![JavaScript](https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000)
+  **JavaScript**: Usado para crear aplicaciones web interactivas y dinámicas. ¡El frontend es muy divertido!
 
+- ![Java](https://img.icons8.com/?size=100&id=100506&format=png&color=000000)  
+  **Java**: Es un lenguaje clásico que utilizo para el desarrollo de aplicaciones empresariales y en el backend.
 
+- ![C++](https://img.icons8.com/?size=100&id=40669&format=png&color=000000)  
+  **C++**: Ideal para el desarrollo de software de alto rendimiento y aplicaciones que requieren un control detallado de los recursos.
 
-<!--
-* 
-Here are some ideas to get you started:
+#### ⚙️ Herramientas y Frameworks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ![GitHub](https://img.icons8.com/?size=100&id=62856&format=png&color=000000)  
+  **Git & GitHub**: Imprescindibles para el control de versiones en cualquier proyecto de software. Usar Git me permite mantener un historial claro y organizado de mis desarrollos.
+
+---
+
+### 🚀 Mis Objetivos
+
+A largo plazo, me gustaría especializarme en el desarrollo de **inteligencia artificial** y **machine learning**, pero también disfruto mucho trabajando en el desarrollo **Full Stack** (tanto en el frontend como en el backend). Mi objetivo es aprender constantemente y trabajar en proyectos innovadores que impacten positivamente en la sociedad.
+
+---
+
+### 🌟 ¿Qué me motiva?
+
+Me motiva la capacidad de **crear soluciones innovadoras** que puedan mejorar la vida de las personas. Ya sea a través de una **aplicación web**, una **herramienta de productividad**, o un sistema de **gestión empresarial**, mi objetivo es crear código que haga las cosas más fáciles, rápidas y efectivas.
+
+---
+
+### 📬 ¡Conectemos!
+
+Si tienes alguna pregunta o quieres hablar sobre programación, tecnología o proyectos, ¡no dudes en contactarme! Estoy siempre dispuesto a aprender de otros y compartir mi experiencia.  
+Envíame un correo a [filipy.rodrigues.7e8@itb.cat](mailto:filipy.rodrigues.7e8@itb.cat).
+
+---
+
+### 🤖 Fun Fact
+
+¿Sabías que el primer "programador" de la historia fue **Ada Lovelace**, una matemática británica que escribió el primer algoritmo para ser procesado por una máquina? ¡Me inspira mucho su trabajo!
+
+---
+
+¡Gracias por leer! 🚀
