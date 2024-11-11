@@ -21,22 +21,24 @@ Durante mis estudios, he tenido la oportunidad de trabajar con varios lenguajes 
 
 #### 📝 Lenguajes de Programación
 
-- ![image](https://github.com/user-attachments/assets/fc4641e6-ecbf-4923-89c9-06d39bbc2c85)
-  **Python**: Me encanta su versatilidad, especialmente en proyectos de análisis de datos y desarrollo de inteligencia artificial.
+ ![image](https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000)
 
-- ![JavaScript](https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000)
-  **JavaScript**: Usado para crear aplicaciones web interactivas y dinámicas. ¡El frontend es muy divertido!
+  - **Python**: Me encanta su versatilidad, especialmente en proyectos de análisis de datos y desarrollo de inteligencia artificial.
 
-- ![Java](https://img.icons8.com/?size=100&id=100506&format=png&color=000000)  
-  **Java**: Es un lenguaje clásico que utilizo para el desarrollo de aplicaciones empresariales y en el backend.
+  ![JavaScript](https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000)
+  
+  - **JavaScript**: Usado para crear aplicaciones web interactivas y dinámicas. ¡El frontend es muy divertido!
 
-- ![C++](https://img.icons8.com/?size=100&id=40669&format=png&color=000000)  
-  **C++**: Ideal para el desarrollo de software de alto rendimiento y aplicaciones que requieren un control detallado de los recursos.
+![Java](https://img.icons8.com/?size=100&id=100506&format=png&color=000000)  
+ - **Java**: Es un lenguaje clásico que utilizo para el desarrollo de aplicaciones empresariales y en el backend.
+
+ ![C++](https://img.icons8.com/?size=100&id=40669&format=png&color=000000)  
+  - **C++**: Ideal para el desarrollo de software de alto rendimiento y aplicaciones que requieren un control detallado de los recursos.
 
 #### ⚙️ Herramientas y Frameworks
 
-- ![GitHub](https://img.icons8.com/?size=100&id=62856&format=png&color=000000)  
-  **Git & GitHub**: Imprescindibles para el control de versiones en cualquier proyecto de software. Usar Git me permite mantener un historial claro y organizado de mis desarrollos.
+![GitHub](https://img.icons8.com/?size=100&id=62856&format=png&color=000000)  
+  - **Git & GitHub**: Imprescindibles para el control de versiones en cualquier proyecto de software. Usar Git me permite mantener un historial claro y organizado de mis desarrollos.
 
 ---
 
