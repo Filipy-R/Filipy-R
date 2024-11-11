@@ -17,7 +17,7 @@
 
 ### 💻 Lenguajes y Herramientas que uso
 
-Durante mis estudios, he tenido la oportunidad de trabajar con varios lenguajes de programación y herramientas. Estoy aprendiendo de manera activa algunos de estos y tengo interés en explorar muchos más. Aquí te dejo algunos de los que más disfruto usar:
+Estoy aprendiendo de manera activa algunos de estos lenguages y tengo interés en explorar muchos más. Aquí te dejo algunos de los que más disfruto usar y algunos que tengo interés de aprender:
 
 #### 📝 Lenguajes de Programación
 
