@@ -63,7 +63,7 @@ Envíame un correo a [filipy.rodrigues.7e8@itb.cat](mailto:filipy.rodrigues.7e8@
 
 ### 🤖 Fun Fact
 
-¿Sabías que el primer "programador" de la historia fue **Ada Lovelace**, una matemática británica que escribió el primer algoritmo para ser procesado por una máquina? ¡Me inspira mucho su trabajo!
+¿Sabías que el primer "programador@" de la historia fue **Ada Lovelace**, una matemática británica que escribió el primer algoritmo para ser procesado por una máquina? ¡Me inspira mucho su trabajo!
 
 ---
 
