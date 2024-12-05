@@ -15,7 +15,7 @@
 
 ---
 
-### 💻 Lenguajes y Herramientas que uso
+### 💻 Lenguajes y Herramientas que me llama atención 
 
 Estoy aprendiendo de manera activa algunos de estos lenguages y tengo interés en explorar muchos más. Aquí te dejo algunos de los que más disfruto usar y algunos que tengo interés de aprender:
 
@@ -30,7 +30,7 @@ Estoy aprendiendo de manera activa algunos de estos lenguages y tengo interés e
   - **JavaScript**: Usado para crear aplicaciones web interactivas y dinámicas. ¡El frontend es muy divertido!
 
 ![Java](https://img.icons8.com/?size=100&id=100506&format=png&color=000000)  
- - **Java**: Es un lenguaje clásico que utilizo para el desarrollo de aplicaciones empresariales y en el backend.
+ - **Java**: Es un lenguaje clásico que se utiliza para el desarrollo de aplicaciones empresariales y en el backend.
 
  ![C++](https://img.icons8.com/?size=100&id=40669&format=png&color=000000)  
   - **C++**: Ideal para el desarrollo de software de alto rendimiento y aplicaciones que requieren un control detallado de los recursos.
